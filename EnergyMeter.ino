@@ -9,8 +9,8 @@ Adafruit_SH1106 display(OLED_RESET);
 
 float SHUNT = 0.05;
 float RATIO = 10;
-int readings = 100;
-float rd_delay = 3;
+int readings = 200;
+float rd_delay = 2;
 
 unsigned long previousMillis = 0;
 float totalEnergyWh = 0;
