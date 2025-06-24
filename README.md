@@ -20,6 +20,10 @@ arduino-cli compile -b arduino:avr:nano . \
 ```
 > Make sure the correct port /dev/ttyUSB* is used and accessible.
 
+## Schematic
+![image](https://github.com/user-attachments/assets/1ea62a03-5247-47bb-b224-0f632963e95c)
+
+
 ## Ratings
 
 - **Input Voltage**: 0 V – 30 V
