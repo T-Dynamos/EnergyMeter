@@ -2,6 +2,9 @@
 
 A DIY attempt to make an electronic energy meter using Arduino.
 
+> Note
+> This project is made by a beginner as a learning experience. There might be mistakes in the design, wiring, or code. Please replicate at your own risk, and feel free to improve or suggest changes!
+
 ## Features
 
 - Measures voltage, current, power, and total energy consumed.
